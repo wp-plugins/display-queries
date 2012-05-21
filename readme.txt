@@ -3,7 +3,7 @@ Contributors: mpegarts
 Donate link: http://www.dreams.de/donation/
 Tags: admin, optimize, performance, plugin, loading time, debug, german, french
 Requires at least: 3.0
-Tested up to: 3.0.1
+Tested up to: 3.3.2
 Stable tag: 1.0.1
 
 Display Plugin for number of queries and page loading time
@@ -24,7 +24,7 @@ Additionally there will be 2 buttons displayed of the validators from the w3c si
 
 = License =
 
-Copyright 2010 by Mpegarts
+Copyright 2012 by Mpegarts
 
 Released under the terms of the GNU GPL, version 2.
 http://www.fsf.org/licensing/licenses/gpl.html
