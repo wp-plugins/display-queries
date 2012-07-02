@@ -3,7 +3,7 @@ Contributors: mpegarts
 Donate link: http://www.dreams.de/donation/
 Tags: admin, optimize, performance, plugin, loading time, debug, german, french
 Requires at least: 3.0
-Tested up to: 3.3.2
+Tested up to: 3.4.1
 Stable tag: 1.0.1
 
 Display Plugin for number of queries and page loading time
